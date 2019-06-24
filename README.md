@@ -6,7 +6,7 @@ Manuscript: "Sympatric and allopatric differentiation delineates population stru
 To do so, we defined a bacterial species using the ecotype framework or a cluster of closely-related strains with the same ecological niche. For a more in-depth framework, please read the exeptional perspective by [Rocha. MBE. 2019.](https://academic.oup.com/mbe/article/35/6/1338/4976545)
 
 ## *Curtobacterium*
-Within *Curtobacterium*, we previously conducted a thorough investigation into the environmental resources driving niche partitioning along a regional climate gradient.
+Within *Curtobacterium*, we previously conducted a thorough investigation into the environmental resources driving niche partitioning along a [regional climate gradient](https://www.pnas.org/content/115/47/11994).
 
 Relevant results from [Chase et al. EMI. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14405)
 
@@ -16,5 +16,5 @@ Relevant results from [Chase et al. EMI. 2018.](https://onlinelibrary.wiley.com/
 >
 >Six abundant ecotypes were observed with differential abundances along the gradient, suggesting fine‐scale niche partitioning.
 
-For this study, we analyzed the genetic diversity within a single ecotype, Subclade IB/C
-
+For this study, we analyzed the genetic diversity of 28 genomes within a single ecotype, Subclade IB/C
+<img src="structure-analysis/figure1-01.jpg" width="600" align="middle"/>
