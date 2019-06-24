@@ -17,4 +17,16 @@ Relevant results from [Chase et al. EMI. 2018.](https://onlinelibrary.wiley.com/
 >Six abundant ecotypes were observed with differential abundances along the gradient, suggesting fine‐scale niche partitioning.
 
 For this study, we analyzed the genetic diversity of 28 genomes within a single ecotype, Subclade IB/C
-<img src="structure-analysis/figure1-01.jpg" width="600" align="middle"/>
+<img src="structure-analysis/figure1-01.jpg" width="200" align="middle"/>
+
+# Software and Databases Used
+[NCBI Curtobacterium Genomes](https://www.ncbi.nlm.nih.gov/genome/16071)
+
+## Core and Flexible Genome
+Ortholog Prediction: [ROARY](https://sanger-pathogens.github.io/Roary/)
+Phylogenetic Analysis: [RAxML](https://cme.h-its.org/exelixis/software.html)
+Core Genome Alignment: [progressiveMAUVE](http://darlinglab.org/mauve/user-guide/progressivemauve.html)
+
+## Recombination Analyses
+[PopCOGenT](https://github.com/philarevalo/PopCOGenT)
+[ClonalFrameML](https://github.com/xavierdidelot/ClonalFrameML)
