@@ -1,6 +1,9 @@
 Relevant files for the analysis of population dynamics in the terrestrial bacterium, *Curtobacterium*
 
-Manuscript: ["Maintenance of Sympatric and Allopatric Populations in Free-Living Terrestrial Bacteria". AB Chase, P Arevalo, EL Brodie, MF Polz, U Karaoz, and JBH Martiny. 2019.](https://mbio.asm.org/content/10/5/e02361-19)
+Manuscript: 
+["Maintenance of Sympatric and Allopatric Populations in Free-Living Terrestrial Bacteria"] (https://mbio.asm.org/content/10/5/e02361-19)
+
+AB Chase, P Arevalo, EL Brodie, MF Polz, U Karaoz, and JBH Martiny. 2019.
 
 # Bacterial Species Definition
 To do so, we defined a bacterial species using the ecotype framework or a cluster of closely-related strains with the same ecological niche. For a more in-depth framework, please read the exeptional perspective by [Rocha. MBE. 2019.](https://academic.oup.com/mbe/article/35/6/1338/4976545)
