@@ -1,7 +1,7 @@
 Relevant files for the analysis of population dynamics in the terrestrial bacterium, *Curtobacterium*
 
 Manuscript: 
-["Maintenance of Sympatric and Allopatric Populations in Free-Living Terrestrial Bacteria"] (https://mbio.asm.org/content/10/5/e02361-19)
+[Maintenance of Sympatric and Allopatric Populations in Free-Living Terrestrial Bacteria](https://mbio.asm.org/content/10/5/e02361-19)
 
 AB Chase, P Arevalo, EL Brodie, MF Polz, U Karaoz, and JBH Martiny. 2019.
 
